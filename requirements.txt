@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+opencv-python
+pillow
+torch
+torchvision
+transformers
+datasets
+textdistance
+tqdm
+umap-learn
+jax
+
